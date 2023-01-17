@@ -1,4 +1,6 @@
 
-# Edward Stalley CV
+## Edward Stalley CV
 
-Here is a link to my [Resume](https://github.com/Edward-Stalley/resume/raw/main/Edward-Stalley.pdf).
+# It can be viewed on the resume page above.
+
+Alternatively, here is a dowload link to my [resume](https://github.com/Edward-Stalley/resume/raw/main/Edward-Stalley.pdf).
