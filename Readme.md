@@ -5,7 +5,7 @@
 
 Alternatively, here is a dowload link to my [English resume](https://github.com/Edward-Stalley/resume/raw/main/Edward-Stalley.pdf).
 
-Here is my [Japanese Resume] (https://github.com/Edward-Stalley/resume/raw/main/Edward-Stalley.pdf).
+Here is my [Japanese Resume](https://github.com/Edward-Stalley/resume/raw/main/Edward Stalley 履歴書.pdf).
 
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
