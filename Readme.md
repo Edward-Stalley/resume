@@ -1,9 +1,10 @@
 
 ## Edward Stalley CV
 
-# It can be viewed on the resume page above.
+# Both mt English and Japanese resume can be viewed on the resume pages above.
 
-Alternatively, here is a dowload link to my [resume](https://github.com/Edward-Stalley/resume/raw/main/Edward-Stalley.pdf).
+Alternatively, here is a dowload link to my [English resume](https://github.com/Edward-Stalley/resume/raw/main/Edward-Stalley.pdf).
+Here is my [Japanese Resume] (https://github.com/Edward-Stalley/resume/raw/main/Edward-Stalley.pdf).
 
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
