@@ -5,7 +5,7 @@
 
 Alternatively, here are two links:
 
-#1 [English resume](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20Resume.pdf).
+#1 [English Resume](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20Resume.pdf).
 
 #2 [Japanese Resume](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf).
 
