@@ -5,10 +5,11 @@
 
 Alternatively, here are two links:
 
-#1 [English Resume](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20Resume.pdf).
+#1 [English Resume](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20English%20Resume%202026.docx.pdf).
 
 #2 [Japanese Resume](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf).
 
+#3 [Japanese Skillsheet](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20English%20Resume%202026.docx.pdf)
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
